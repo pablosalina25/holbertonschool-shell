@@ -1,2 +1,2 @@
-#!/bin/bash
-cchown -hR betty:alx .
+#!/bin/ba
+Chown -hR vincent:staff .
