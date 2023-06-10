@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -hR betty:alx .
+cchown -hR betty:alx .
