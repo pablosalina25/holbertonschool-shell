@@ -1,2 +1,2 @@
 #!/bin/bash
-print $NUM 2%f
+printf $NUM "%2f"
